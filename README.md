@@ -1,6 +1,7 @@
 # JGraLab
 
 bla bla.
+more bla bla.
 klaus stuff.
 
 JGraLab is a Java graph library implementing so-called TGraphs: typed,
