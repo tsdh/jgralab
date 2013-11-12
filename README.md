@@ -4,6 +4,8 @@ bla bla.
 more bla bla.
 klaus stuff.
 
+Hier schreibt der Klaus noch wat.
+
 JGraLab is a Java graph library implementing so-called TGraphs: typed,
 attributed, ordered, and directed graphs.  Beyond the plain data structure, the
 library contains an extensive algorithm library, the graph query language
