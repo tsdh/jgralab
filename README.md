@@ -1,6 +1,7 @@
 # JGraLab
 
 bla bla.
+more bla bla.
 
 JGraLab is a Java graph library implementing so-called TGraphs: typed,
 attributed, ordered, and directed graphs.  Beyond the plain data structure, the
