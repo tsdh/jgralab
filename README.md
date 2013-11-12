@@ -4,6 +4,8 @@ bla bla.
 more bla bla.
 klaus stuff.
 
+Noch mehr bla bla.
+
 Hier schreibt der Klaus noch wat.
 
 JGraLab is a Java graph library implementing so-called TGraphs: typed,
